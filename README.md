@@ -1,6 +1,8 @@
-[![Proudly sponsored by ProxySeller](https://github.com/user-attachments/assets/8f8fb168-ade0-404d-88f3-737c3cfcf34f)](https://proxy-seller.com/?partner=3S6TXUKUTNQBZ9)
-
-Proudly sponsored by [ProxySeller](https://proxy-seller.com/). Scrape any site, bypass geo-restrictions, track competitor prices and run multiple social accounts using real residential, mobile (4G/5G), ISP and datacenter IPs from 220+ countries.
+> ### Proudly sponsored by [Swiftproxy](https://www.swiftproxy.net/?ref=Ge0rg3)
+>
+> High-performance residential proxies with an **80M+ IP pool across 195+ countries** — improve request success rates and reduce IP blocks during large-scale data collection and browser automation. Perfect for use with `requests-ip-rotator`, Playwright, Selenium, and other scraping tools.
+>
+> **[Start a free trial →](https://www.swiftproxy.net/?ref=Ge0rg3)**
 
 ---
 
